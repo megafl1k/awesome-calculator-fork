@@ -12,5 +12,4 @@ def divide(a, b):
         return a / b
     return "Error: Division by zero"
 
-
-print(Calculator v1.0)
+print("Calculator v1.0")
